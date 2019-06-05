@@ -1,4 +1,4 @@
-@import '~bootstrap/dist/css/bootstrap.css' ; 
+@import '~bootstrap/dist/css/bootstrap.css' ;
 input {
   height: 30px;
   font-size: 15px;
@@ -11,11 +11,11 @@ input {
 }
 
 .ng-valid:not(form) {
-  border: 2px solid #42A948;
+  border: 2px solid green;
 }
 
 .ng-invalid:not(form)  {
-  border: 2px solid #a94442;
+  border: 2px solid red;
 }
 
 .container-grid {
